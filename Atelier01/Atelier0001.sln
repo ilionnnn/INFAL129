@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboutMyEnvironment", "AboutMyEnvironment\AboutMyEnvironment.csproj", "{89760016-9D86-46D1-943C-21DDB78F5DE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrapper", "Scrapper\Scrapper.csproj", "{12096206-7EC3-4EED-BDF4-5C339659E779}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{89760016-9D86-46D1-943C-21DDB78F5DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89760016-9D86-46D1-943C-21DDB78F5DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89760016-9D86-46D1-943C-21DDB78F5DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12096206-7EC3-4EED-BDF4-5C339659E779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12096206-7EC3-4EED-BDF4-5C339659E779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12096206-7EC3-4EED-BDF4-5C339659E779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12096206-7EC3-4EED-BDF4-5C339659E779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
